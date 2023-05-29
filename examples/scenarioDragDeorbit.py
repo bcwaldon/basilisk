@@ -261,7 +261,7 @@ def run(show_plots, initialAlt=250, deorbitAlt=100, model="exponential"):
 
     # Vizard Visualization Option
     # ---------------------------
-    # If you wish to transmit the simulation data to the United based Vizard Visualization application,
+    # If you wish to transmit the simulation data to the Unity based Vizard Visualization application,
     # then uncomment the following
     # line from the python scenario script.  This will cause the BSK simulation data to
     # be stored in a binary file inside the _VizFiles sub-folder with the scenario folder.  This file can be read in by
